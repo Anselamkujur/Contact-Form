@@ -1,0 +1,21 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    width: 1440px;
+    height: 72px;
+    /* background-color: antiquewhite; */
+    align-items: center;
+    margin: auto;
+}
+
+.navbar img {
+    display: flex;
+    align-items: center;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
